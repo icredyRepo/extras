@@ -1,0 +1,23 @@
+{
+  "type": "SchemaOverlay",
+  "version": "1.0",
+  "id": "schema:example:1.0",
+  "branding": {
+    "name": "Example Credential",
+    "logo": "https://example.com/logo.png",
+    "background": "#FFFFFF",
+    "foreground": "#000000"
+  },
+  "data_display": [
+    {
+      "name": "Full Name",
+      "path": "$.full_name",
+      "format": "text"
+    },
+    {
+      "name": "Date of Birth",
+      "path": "$.dob",
+      "format": "date"
+    }
+  ]
+}
