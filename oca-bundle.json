@@ -4,7 +4,7 @@
   "id": "schema:example:1.0",
   "branding": {
     "name": "Example Credential",
-    "logo": "https://example.com/logo.png",
+    "logo": "https://github.com/icredyRepo/extras/blob/main/icredyLogo.jpg",
     "background": "#FFFFFF",
     "foreground": "#000000"
   },
