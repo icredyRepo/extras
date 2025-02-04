@@ -10,14 +10,14 @@
   },
   "data_display": [
     {
-      "name": "Full Name",
+      "name": "Exp",
       "path": "$.full_name",
       "format": "text"
     },
     {
-      "name": "Date of Birth",
+      "name": "DOB",
       "path": "$.dob",
-      "format": "date"
+      "format": "text"
     }
   ]
 }
