@@ -1,11 +1,11 @@
 {
   "type": "SchemaOverlay",
   "version": "1.0",
-  "id": "schema:example:1.0",
+  "id": "ZShAfe8fC4atGe5TPC7Z6:2:Drivetest:1.0",
   "branding": {
     "name": "Example Credential",
     "logo": "https://github.com/icredyRepo/extras/blob/main/icredyLogo.jpg",
-    "background": "#FFFFFF",
+    "background": "#0D98BA",
     "foreground": "#000000"
   },
   "data_display": [
