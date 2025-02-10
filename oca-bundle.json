@@ -3,10 +3,18 @@
   "version": "1.0",
   "id": "ZShAfe8fC4atGe5TPC7Z6:2:Drivetest:1.0",
   "branding": {
-    "name": "Example Credential",
-    "logo": "https://github.com/icredyRepo/extras/blob/main/icredyLogo.jpg",
-    "background": "#0D98BA",
-    "foreground": "#000000"
+        "logo": "https://raw.githubusercontent.com/swcurran/aries-rfcs/oca4aries/features/0755-oca-for-aries/best-bc-logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/swcurran/aries-rfcs/oca4aries/features/best-bc-background-image-slice.png",
+        "background_image": "https://raw.githubusercontent.com/swcurran/aries-rfcs/oca4aries/features/best-bc-background-image.png",
+        "capture_base": "EKpcSmz06sJs0b4g24e0Jc7OerbJrGN2iMVEnwLYKBS8",
+        "description": "",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "expiry_date_dateint",
+        "name": "Example",
+        "primary_attribute": "Exp",
+        "secondary_attribute": "DOB",
+        "type": "aries/overlays/branding/1.0"
+    
   },
   "data_display": [
     {
